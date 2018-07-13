@@ -29,7 +29,6 @@
 					<muleVersion>3.9</muleVersion>
 					<username>veera-babu</username>
 					<password>Iamdevops4</password>
-					<redeploy>true</redeploy>
 					<environment>Sandbox</environment>
 				</configuration>
 				<executions>
